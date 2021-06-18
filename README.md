@@ -3,11 +3,11 @@
 The best and suitable mobile application for students and career seekers.This application(Top Engineering college rating & ACPC ranking 2020) guide students by providing latest updates on admission notifications, some study materials for college students and college ratings of different sections of management. Newer miss out latest admission alerts if you have install this application.
 
 <div align="center">
-    <img src="/screenshots/screenshot 1.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 2.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 3.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 4.png" width="200px" height="400pxs"/>
-    <img src="/screenshots/screenshot 5.png" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 1.png" width="150px" height="300pxs"/>
+    <img src="/screenshots/screenshot 2.png" width="150px" height="300pxs"/>
+    <img src="/screenshots/screenshot 3.png" width="150px" height="300pxs"/>
+    <img src="/screenshots/screenshot 4.png" width="150px" height="300pxs"/>
+    <img src="/screenshots/screenshot 5.png" width="150px" height="300pxs"/>
 </div>
 
 <h3>Features</h3>
