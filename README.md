@@ -2,6 +2,10 @@
 <b>Get the latest Admission Guide and College rating.</b><br>
 The best and suitable mobile application for students and career seekers.This application(Top Engineering college rating & ACPC ranking 2020) guide students by providing latest updates on admission notifications, some study materials for college students and college ratings of different sections of management. Newer miss out latest admission alerts if you have install this application.
 
+<div align="center">
+    <img src="https://drive.google.com/file/d/1m1JuOgGcJbx8WN0ZH54JhKjsVXF7RrVQ/view?usp=sharing" width="100px" height="200pxs"/> 
+</div>
+
 <h3>Features</h3>
 This is application(Top Engineering college rating & ACPC ranking 2020) is useful for HSC students, college students and teachers.
 
