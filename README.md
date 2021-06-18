@@ -5,6 +5,9 @@ The best and suitable mobile application for students and career seekers.This ap
 <div align="center">
     <img src="/screenshots/screenshot 1.png" width="200px" height="400pxs"/>
     <img src="/screenshots/screenshot 2.png" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 3.png" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 4.png" width="200px" height="400pxs"/>
+    <img src="/screenshots/screenshot 5.png" width="200px" height="400pxs"/>
 </div>
 
 <h3>Features</h3>
